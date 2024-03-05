@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-- 26 anos.
+- 27 anos.
 - Sempre aprendendo.
 - Desenvolvedor Back-end Pleno na [SPTECH Consulting](https://github.com/BandTec).
 - Buscando aprender e aplicar sempre as melhores práticas de desenvolvimento.

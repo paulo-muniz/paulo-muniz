@@ -1,12 +1,10 @@
-![1637610671189](https://user-images.githubusercontent.com/53615642/222939008-5381f1ae-e61e-4e0d-bc24-2b5a9cd9eed3.jpg)
-
 > ***It's been a long time, old one***
 
 ## Sobre mim
 
 - 27 anos.
 - Sempre aprendendo.
-- Desenvolvedor Back-end Pleno na [SPTECH Consulting](https://github.com/BandTec).
+- Desenvolvedor na [Consumidor Positivo](https://github.com/AcordoCertoBR).
 - Buscando aprender e aplicar sempre as melhores práticas de desenvolvimento.
 
 ## Tecnologias

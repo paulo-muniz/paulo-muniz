@@ -2,14 +2,14 @@
 
 ## Sobre mim
 
-- 27 anos.
+- 28 anos.
 - Sempre aprendendo.
 - Desenvolvedor na [Consumidor Positivo](https://github.com/AcordoCertoBR).
 - Buscando aprender e aplicar sempre as melhores práticas de desenvolvimento.
 
 ## Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=spring,mysql,postgres,nodejs,react,python,docker,grafana,azure,gcp,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,mysql,dynamodb,redis,python,docker,aws,gcp,spring,linux&theme=dark)](https://skillicons.dev)
 
 
 ## Contato

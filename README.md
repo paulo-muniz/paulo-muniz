@@ -9,7 +9,7 @@
 
 ## Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=go,mysql,dynamodb,redis,python,docker,aws,gcp,spring,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,mysql,mongodb,dynamodb,redis,python,docker,aws,gcp,spring,linux&theme=dark)](https://skillicons.dev)
 
 
 ## Contato
